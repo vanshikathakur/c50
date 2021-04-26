@@ -1,0 +1,22 @@
+h1 {
+color:aquamarine
+}
+
+p {
+border:solid;
+}
+
+.header {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-around;
+}
+.socialmedia {
+    background-color: crimson;
+    display
+}
+
+.game {
+    display: flex;
+    justify-content: space-around;
+}
